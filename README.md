@@ -1,5 +1,6 @@
 # Face-recognition-for-attendance
 Face detection and recognition for attendance systems
+
 ## DESCRIPTION
 
 This project is about the Face Detection and Face Recognition using OpenCV libraries and inbuilt haarcascade classifier to recognize the face of a student and marks his/her attendance in the database.
